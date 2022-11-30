@@ -22,6 +22,7 @@ use Infifni\FanCourierApiClient\Request\ReadCsvInterface;
  * @method city(array $params = [])
  * @method deleteAwb(array $params)
  * @method getAwb(array $params)
+ * @method getAwbPdf(array $params)
  * @method trackAwb(array $params)
  * @method downloadAwb(array $params)
  * @method endBordereau(array $params = [])
